@@ -10,4 +10,4 @@ Este proyecto es un ejercicio básico de html para poder llevar proyectos de des
 ##Código
 Este es mi codigo de la clase 6
 
-![Vista previa][https://imgur.com/undefined]
+![Vista previa][https://imgur.com/GPLH81J]
