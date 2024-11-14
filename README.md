@@ -11,4 +11,4 @@ Este proyecto es un ejercicio básico de html para poder llevar proyectos de des
 ## Código
 Este es mi codigo de la clase 6:
 
-![Vista previa](https://drive.google.com/uc?export=view&id=12wnEezc9HwvmyZmzEKyPlqiUFqJj_QPy)
+![Vista previa](./CV_Prueba/Código%20de%20CV.jpg)
